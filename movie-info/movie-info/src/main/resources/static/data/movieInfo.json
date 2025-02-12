@@ -1,0 +1,62 @@
+[
+    {
+        "movie_id": 1,
+        "movie_name": "Inception",
+        "movie_info": "A mind-bending thriller where dreams within dreams become reality.",
+        "movie_director": "Christopher Nolan"
+    },
+    {
+        "movie_id": 2,
+        "movie_name": "The Dark Knight",
+        "movie_info": "Batman faces off against the Joker in this iconic superhero crime drama.",
+        "movie_director": "Christopher Nolan"
+    },
+    {
+        "movie_id": 3,
+        "movie_name": "Interstellar",
+        "movie_info": "A sci-fi epic exploring space travel and the survival of humanity.",
+        "movie_director": "Christopher Nolan"
+    },
+    {
+        "movie_id": 4,
+        "movie_name": "The Shawshank Redemption",
+        "movie_info": "A man wrongly imprisoned for murder finds hope and friendship in Shawshank prison.",
+        "movie_director": "Frank Darabont"
+    },
+    {
+        "movie_id": 5,
+        "movie_name": "The Godfather",
+        "movie_info": "A powerful crime saga about the rise of the Corleone family.",
+        "movie_director": "Francis Ford Coppola"
+    },
+    {
+        "movie_id": 6,
+        "movie_name": "Pulp Fiction",
+        "movie_info": "A nonlinear crime film intertwining multiple stories of violence and redemption.",
+        "movie_director": "Quentin Tarantino"
+    },
+    {
+        "movie_id": 7,
+        "movie_name": "Fight Club",
+        "movie_info": "An insomniac and a soap salesman form an underground fight club.",
+        "movie_director": "David Fincher"
+    },
+    {
+        "movie_id": 8,
+        "movie_name": "Forrest Gump",
+        "movie_info": "A slow-witted but kind-hearted man witnesses key historical events.",
+        "movie_director": "Robert Zemeckis"
+    },
+    {
+        "movie_id": 9,
+        "movie_name": "The Matrix",
+        "movie_info": "A computer hacker discovers the true nature of reality and fights against AI overlords.",
+        "movie_director": "Lana Wachowski, Lilly Wachowski"
+    },
+    {
+        "movie_id": 10,
+        "movie_name": "The Lord of the Rings: The Return of the King",
+        "movie_info": "The epic conclusion to the Lord of the Rings trilogy as Frodo nears Mount Doom.",
+        "movie_director": "Peter Jackson"
+    }
+]
